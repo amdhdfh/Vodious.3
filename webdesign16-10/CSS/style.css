@@ -1,0 +1,552 @@
+body {
+    background-image: url(https://e1.pxfuel.com/desktop-wallpaper/670/1008/desktop-wallpaper-black-theme-beautiful-of-black-theme-black-theme.jpg);
+}
+
+header {
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 5px darkgreen, 0 0 10px green, 0 0 15px lightgreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    padding: 1px 0px;
+    margin-bottom: 10px;
+    border: 2px solid lightgreen;
+    border-radius: 22px;
+}
+
+nav ul {
+    list-style: none;
+        display: flex;
+        justify-content: space-evenly;
+        padding: 0px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-size: 100%;
+    color: white;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav ul li a:hover {
+    color: lightgreen;
+    text-shadow: 0 0 4px green, 0 0 8px lightgreen, 0 0 12px lightgreen;
+}
+
+
+
+
+
+
+
+
+#video {
+    text-align: center;
+    align-items: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 120px;
+}
+
+section#videos {
+}
+
+article#video a {
+    color: white;
+    text-decoration: none;
+    font-size: large;
+}
+
+#video a:hover {
+    color: lightgreen;
+    text-shadow: 0 0 4px green, 0 0 8px lightgreen, 0 0 12px lightgreen;
+}
+
+iframe {
+    border: 2px solid lightgreen;
+}
+
+section#pencarian {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+section#pencarian input {
+    border: 2px solid lightgreen;
+    border-radius: 6px;
+    width: 40%;
+    height: 25px;
+    background-color: transparent;
+    color: white;
+}
+
+
+
+
+
+article#kategori {
+    margin-bottom: 120px;
+    text-align: center;
+}
+
+article#kategori h2 {
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+section#artikelbox {
+    display: flex;
+    font-size: 13px;
+    justify-content: space-evenly;
+}
+
+#artikelbox div{
+    width: 17%;
+    border: 2px solid lightgreen;
+    border-bottom-left-radius: 22px;
+    border-bottom-right-radius: 22px;
+    background-color:black;
+}
+
+#artikelbox .artikelbox :hover {
+    box-shadow: 0 0 4px green, 0 0 8px lightgreen, 0 0 12px lightgreen;
+    /* color: lightgreen; */
+    text-shadow: 0 0 4px green, 0 0 8px lightgreen;
+}
+
+#artikelbox div a {
+    text-decoration: none;
+}
+
+
+section div img {
+    width: 100%;
+}
+
+section#artikelbox div h2 {
+    margin-bottom: 5px;
+    margin-top: 2px;
+    color: white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+article#kategori a.kategorilain {
+    align-items: center;
+    text-align: center;
+    font-size: large;
+    text-decoration: none;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+article#kategori a.kategorilain:hover {
+    color: lightgreen;
+    text-shadow: 0 0 4px green, 0 0 8px lightgreen, 0 0 12px lightgreen;
+}
+
+
+
+
+
+
+
+footer {
+text-align: center;
+}
+
+footer p {
+    width: 80%;
+    margin: 15px auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+footer section#boxfoot {
+    justify-content: space-evenly;
+    display: flex; 
+}
+
+#footjudul h3 {
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+section#footjudul a.kreatorlain {
+    text-align: center;
+    text-decoration: none;
+    font-size: large;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+section#footjudul a.kreatorlain:hover {
+    color: lightgreen;
+    text-shadow: 0 0 4px green, 0 0 8px lightgreen, 0 0 12px lightgreen;
+}
+
+#boxfoot div {
+    width: 13%;
+    border: 2px solid lightgreen;
+    background-color: black;
+    border-bottom-left-radius: 22px;
+    border-bottom-right-radius: 22px;
+    text-align: center;
+}
+
+#boxfoot div:hover {
+    box-shadow: 0 0 4px green, 0 0 8px lightgreen, 0 0 12px lightgreen;
+    color: lightgreen;
+    text-shadow: 0 0 4px green, 0 0 8px lightgreen;
+}
+
+#boxfoot div a {
+    text-decoration: none;
+    font-size: 11px;
+}
+
+#boxfoot div a h2 {
+    margin-top: 2px;
+    margin-bottom: 5px;
+    text-decoration: none;
+    color: white;
+    padding: 0px 2px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#boxfoot div a h2:hover {
+    color: lightgreen;
+    text-shadow: 0 0 4px green, 0 0 8px lightgreen;
+}
+
+footer p {
+    color: white;
+}
+
+section#copyright {
+    text-align: center;
+    font-weight: bold;
+    background-color: black;
+    border: 2px solid lightgreen;
+}
+
+
+
+
+
+
+
+/* Footer styles */
+.site-footer {
+    width: 80%;
+    padding: 20px;
+    margin: auto;
+    background-color: #000;
+    border: 2px solid lightgreen;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.footer-title {
+    font-size: 1.4rem;
+    margin-left: 12%;
+    margin-bottom: 20px;
+    color: white;
+    font-weight: bold;
+}
+
+.footer-links {
+    justify-content: center;
+    align-items: center;
+    width: 76%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer-link-group {
+    width: 25%;
+    /* Four columns for larger screens */
+    margin-bottom: 20px;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.footer-link-group a {
+    display: block;
+    color: #888;
+    text-decoration: none;
+    font-size: 0.8rem;
+    margin-bottom: 12px;
+}
+
+.footer-link-group a:hover {
+    /* color: #fff; */
+    color: lightgreen;
+    text-shadow: 0 0 4px green, 0 0 8px lightgreen, 0 0 12px lightgreen;
+}
+
+/* Language selector */
+.language-dropdown {
+    font-size: 1.4rem;
+    margin: 10px 0 20px 12%;
+    color: white;
+    font-weight: bold;
+}
+
+.language-select {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    font-size: 0.9rem;
+}
+
+/* Footer bottom text */
+.footer-copyright {
+    margin-top: 30px;
+    font-size: 0.8rem;
+    color: #888;
+    text-align: center;
+}
+
+/* Responsive Code for Tablets */
+@media (max-width: 768px) {
+    .footer-links {
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    .footer-link-group {
+        width: 50%;
+        /* Two columns in block layout */
+        margin-bottom: 20px;
+    }
+
+    .footer-title,
+    .language-dropdown {
+        text-align: center;
+        margin-left: 0;
+    }
+
+    .language-dropdown {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .language-select {
+        font-size: 0.9rem;
+        padding: 8px 16px;
+        width: 200px;
+    }
+
+    .footer-copyright {
+        font-size: 0.8rem;
+        text-align: center;
+    }
+}
+
+
+    /* 
+* Features section styles for showcasing key features 
+*/
+.section-features {
+    width: 80%;
+    padding: 20px;
+    margin: auto;
+}
+
+/* 
+* Heading styles for features section 
+*/
+.section-heading {
+    text-align: center;
+}
+
+/* 
+* Grid layout for features cards 
+*/
+.features-grid {
+    display: flex;
+    gap: 15px;
+    /* Space between cards */
+    justify-content: center;
+    /* Center the cards */
+    align-items: center;
+    /* Align cards vertically */
+    flex-wrap: wrap;
+    /* Allow cards to wrap to the next line */
+}
+
+/* 
+* Individual feature card styling 
+*/
+.feature-card {
+    width: 240px;
+    /* Fixed width for cards */
+    height: 300px;
+    background-color: #1D1932;
+    border-radius: 20px;
+    padding: 30px;
+    flex: 0 0 auto;
+    /* Prevent cards from growing or shrinking */
+}
+
+/* 
+* Responsive styles for feature cards on larger screens 
+*/
+@media (max-width: 1024px) {
+    .feature-card {
+        width: calc(50% - 7.5px);
+        /* Two cards per row with some gap */
+    }
+}
+
+/* 
+* Responsive styles for feature cards on smaller screens 
+*/
+@media (max-width: 768px) {
+    .feature-card {
+        width: 100%;
+        /* Full width for a single card in mobile */
+    }
+}
+
+/* 
+* Title styling for features cards 
+*/
+.feature-title {
+    font-size: 20px;
+    font-weight: 650;
+}
+
+/* 
+* Description styling for features cards 
+*/
+.feature-description {
+    color: #878787;
+}
+
+/* 
+* Icon styling for features cards 
+*/
+.feature-icon {
+    width: 80px;
+    height: 80px;
+    justify-content: flex-end;
+}
+
+/* 
+* FAQ section styles for frequently asked questions 
+*/
+.section-faq {
+    width: 80%;
+    padding: 20px;
+    margin: auto;
+}
+
+/* 
+* Heading styles for FAQ section 
+*/
+.section-heading {
+    text-align: center;
+    font-size: 2rem;
+    /* Increase heading size */
+    color: white;
+}
+
+/* 
+* List container for FAQ entries 
+*/
+.faq-list {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    width: 76%;
+    margin: auto;
+}
+
+/* 
+* Individual FAQ entry styling 
+*/
+.faq-entry {
+    background-color: #333;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+.faq-entry.active {
+    background-color: #555;
+}
+
+/* 
+* Question styling within FAQ entries 
+*/
+.faq-question {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.2rem;
+    color: white;
+    /* Ensure text is readable */
+}
+
+/* 
+* Answer styling within FAQ entries 
+*/
+.faq-answer {
+    display: none;
+    padding-top: 10px;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #ccc;
+    /* Ensure answer text is readable */
+}
+
+.faq-entry.active .faq-answer {
+    display: block;
+}
+
+/* 
+* Toggle icon styling for FAQ entries 
+*/
+.toggle-icon {
+    font-size: 1.2rem;
+}
+
+/* Responsive Code for Mobile */
+@media (max-width: 480px) {
+    .footer-link-group {
+        width: 100%;
+        /* Single column on mobile */
+        text-align: center;
+    }
+
+    .footer-title {
+        font-size: 1.2rem;
+    }
+
+    .footer-link-group a {
+        font-size: 0.9rem;
+    }
+
+    .footer-copyright {
+        font-size: 0.7rem;
+        text-align: center;
+        margin-top: 20px;
+    }
+}
